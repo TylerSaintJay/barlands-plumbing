@@ -1,7 +1,7 @@
-# Burgess Plumbing Website Restructure - Implementation Plan
+# Barlands Plumbing Website Restructure - Implementation Plan
 
 ## Project Overview
-Elite-level modernization of the Burgess Plumbing digital presence.
+Elite-level modernization of the Barlands Plumbing digital presence.
 
 ## Phase 1: Foundation & Core Design [COMPLETED]
 - [x] Integrate React Router for SPA navigation
@@ -33,4 +33,4 @@ Elite-level modernization of the Burgess Plumbing digital presence.
 ---
 **Status:** Verified & Polished. Phase 4 complete.
 **Audit Score:** 9.8/10
-**Design System:** [Liquid Glass](design-system/burgess-plumbing/MASTER.md)
+**Design System:** [Liquid Glass](design-system/barlands-plumbing/MASTER.md)
