@@ -1,0 +1,72 @@
+{
+    "brand": {
+        "name": "Barlands Plumbing",
+        "slogan": "Your trusted plumbers in Randburg",
+        "logo": "https://barlands.co.za/wp-content/uploads/2021/01/barlands_logo.png.webp",
+        "colors": {
+            "primary": "#F37021",
+            "secondary": "#333333",
+            "accent": "#E74C3C"
+        }
+    },
+    "contact": {
+        "phone": "+27 76 250 5475",
+        "email": "alwyn@barlands.co.za",
+        "address": "167 Blueberry St, Randpark Ridge, Randburg, 2170, South Africa"
+    },
+    "services": [
+        {
+            "title": "Burst Pipes & Leak Detection",
+            "description": "Expert leak detection and rapid response for burst pipes to minimize water damage.",
+            "category": "Plumbing",
+            "icon": "Search",
+            "highlight": true
+        },
+        {
+            "title": "Geyser & Hot Water",
+            "description": "24/7 geyser repairs, thermal element replacement, and solar geyser installations.",
+            "category": "Energy",
+            "icon": "Flame",
+            "dark": true
+        },
+        {
+            "title": "Drain & Sewer Services",
+            "description": "High-pressure jetting, CCTV drain inspections, and mechanical unblocking.",
+            "category": "Drainage",
+            "icon": "Droplets"
+        },
+        {
+            "title": "Emergency Plumbing",
+            "description": "30-60 minute response time for all urgent plumbing disasters across Randburg.",
+            "category": "Emergency",
+            "icon": "Clock"
+        },
+        {
+            "title": "Water Delivery & Infrastructure",
+            "description": "Potable bulk water delivery, automated backup systems, and specialized filtration.",
+            "category": "Water",
+            "icon": "Wrench",
+            "accent": true
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Sarah Jenkins",
+            "text": "They came out to assess our pipes with a camera inspection... their service was absolutely lovely from start to finish. They were professional, punctual, and explained everything clearly.",
+            "location": "Randburg",
+            "rating": 5
+        },
+        {
+            "name": "David Mokoena",
+            "text": "The thermal leak detection saved us thousands in unnecessary renovations. Highly recommend Barlands Plumbing.",
+            "location": "Johannesburg",
+            "rating": 5
+        },
+        {
+            "name": "Liezel van der Merwe",
+            "text": "Excellent service and friendly staff. Thank you for assisting on a Sunday. Best plumbers in SA.",
+            "location": "Pretoria",
+            "rating": 5
+        }
+    ]
+}
